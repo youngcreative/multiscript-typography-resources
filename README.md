@@ -1,5 +1,5 @@
 # Multiscript Typography Resources
-Websites, books, and other resources related to multiscript typography.
+Websites, books, and other resources related to multiscript typography.  
 By [Michael J. Young](https://youngcreative.ca) and [Jumanah Abualkhair](http://jumanah.design/)
 
 
