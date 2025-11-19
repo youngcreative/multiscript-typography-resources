@@ -5,9 +5,9 @@ By [Michael J. Young](https://youngcreative.ca) and [Jumanah Abualkhair](http://
 
 Working on a multi-scriptural design project can be tricky, especially if it’s your first time. In an effort to help, we’ve gathered some of our favourite resources — a collection of references, inspiration, and places to go for a sense of community.
 
-## Learning & Reference
+## 1. Learning & Reference
 
-### 1. Online Articles and Lectures
+### Online Articles and Lectures
 
 - [An introductory to multiscript typography](https://designregression.com/essay/elements-of-multi-script-typography-introduction): This three-part series explains what scripts are and how they are used digitally. It focuses on common features shared across different languages and writing systems. Parts two and three explore how fonts make use of Unicode to display languages and regional variations accurately.  
 - [Beginner’s Guide to Multiscript Typography](https://www.type-together.com/multiscript-typography-guide): This guide from Type-Together offers practical advice about harmoniously combining different scripts. Misunderstandings and common mistakes are also covered in detail.  
