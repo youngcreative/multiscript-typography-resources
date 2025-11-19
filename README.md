@@ -55,7 +55,7 @@ Working on a multi-scriptural design project can be tricky, especially if it’s
 - [Futura 100](https://www.type-together.com/futura100-multiscript): A global type family that now communicates in 12 scripts, with language support for over 90% of the world’s population. It’s available as part of the Adobe Font library for Creative Cloud subscribers.
 - [Zed](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century): Multilingual Font Family
 
-## Type Foundries
+### Type Foundries
 - [3Type](https://3type.cn/about/index.html): Multilingual type foundry based in Shanghai
 - [Rosetta Type](https://rosettatype.com): Type Foundry based in Brno, Czechia, specializing in global typography.
 - [Typotheque](https://www.typotheque.com): Type foundry and publisher. Typotheque is known for its contributions to multilingual typography.
