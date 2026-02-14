@@ -28,9 +28,6 @@ Working on a multi-scriptural design project can be tricky, especially if it’s
 - [Writing Systems: a linguistic approach](https://www.wiley.com/en-us/Writing+Systems%3A+A+Linguistic+Approach-p-9780631234630#download-product-flyer): A practical overview of several scripts intended primarily as a one term textbook for linguistics students, but also understandable for people with enough background knowledge in the subject.
 - [The World’s Writing Systems](https://archive.org/details/isbn_9780195079937): Daniels & Bright’s book is encyclopedic and extremely detailed. Each writing system is explained by an expert. Also included are sections on related topics such as classes of scripts (alphabet, syllabary, …), decipherment, and technology. Intended for the few who need to learn broadly in the field of writing systems.
 
-2. Daniels, Peter & Bright, William. The World’s Writing Systems.
-Oxford University Press, 1996. 
-His words: "Daniels & Bright’s book is encyclopedic and extremely detailed. Each writing system is explained by an expert. In addition, there are sections on related topics such as classes of scripts (alphabet, syllabary, …), decipherment, and technology. Intended for the few who need to learn broadly in the field of writing systems."
 
 ### Glossary
 
