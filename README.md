@@ -1,6 +1,6 @@
 # Multiscript Typography Resources
 Websites, books, and other resources related to multiscript typography.  
-By [Michael J. Young](https://youngcreative.ca) and [Jumanah Abualkhair](http://jumanah.design/)
+By [Michael J. Young](https://youngcreative.ca) and [Jumanah Abualkhair](http://jumanah.design/).
 
 
 Working on a multi-scriptural design project can be tricky, especially if it’s your first time. In an effort to help, we’ve gathered some of our favourite resources — a collection of references, inspiration, and places to go for a sense of community.
@@ -25,6 +25,12 @@ Working on a multi-scriptural design project can be tricky, especially if it’s
 - [Typographia Polyglotta: A Comparative Study in Multilingual Typesetting](https://draw-down.com/products/typographia-polyglotta)
 - [Typography Beyond Borders](https://sherrymuyuanhe.com/book): This English language book fills an important gap by providing an accessible resource for graphic designers needing to work with other scripts and languages. Useful for educators, students and practitioners, it encourages designers to step outside of their comfort zone and embrace multilingual projects.  
 - [Writing Systems by Geoffrey Sampson](https://utppublishing.com/doi/book/10.3138/9781781791042): While not aimed at designers, this book provides a strong foundation for learning about historic and contemporary scripts in use around the world. The chapter about digital writing systems provides an overview of how fonts and computer systems have evolved to support both Latin and non-Latin languages.
+- [Writing Systems: a linguistic approach](https://www.wiley.com/en-us/Writing+Systems%3A+A+Linguistic+Approach-p-9780631234630#download-product-flyer): A practical overview of several scripts intended primarily as a one term textbook for linguistics students, but also understandable for people with enough background knowledge in the subject.
+- [The World’s Writing Systems](https://archive.org/details/isbn_9780195079937): Daniels & Bright’s book is encyclopedic and extremely detailed. Each writing system is explained by an expert. Also included are sections on related topics such as classes of scripts (alphabet, syllabary, …), decipherment, and technology. Intended for the few who need to learn broadly in the field of writing systems.
+
+2. Daniels, Peter & Bright, William. The World’s Writing Systems.
+Oxford University Press, 1996. 
+His words: "Daniels & Bright’s book is encyclopedic and extremely detailed. Each writing system is explained by an expert. In addition, there are sections on related topics such as classes of scripts (alphabet, syllabary, …), decipherment, and technology. Intended for the few who need to learn broadly in the field of writing systems."
 
 ### Glossary
 
@@ -70,3 +76,7 @@ The sense of community you can find in typography is arguably one of the stronge
 - [ATypI](https://atypi.org): An “international non-profit organization dedicated to typography and typeface design,” having established communities with nominated Country Delegates as well as competitions, awards, and publications.
 - [Granshan](https://granshan.com): A “hub for global visual identity,” focusing on non-Latin scripts through competitions, conferences and exhibitions. 
 - [EZHISHIN Conference Talks](https://www.youtube.com/playlist?list=PLhAnidPs9qQLstpIEHWRykTv2boEQwi6q): A conference of Native North American Typography covering a range of topics and different Indigenous languages. 
+
+
+## Acknowledgments
+Special thanks to Kamal Mansour for his contribution of books about writing systems and linguistics.
